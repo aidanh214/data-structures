@@ -1,6 +1,14 @@
 {
     "cmake.configureOnOpen": false,
     "files.associations": {
-        "new": "cpp"
+        "new": "cpp",
+        "__hash_table": "cpp",
+        "__node_handle": "cpp",
+        "functional": "cpp",
+        "unordered_map": "cpp",
+        "iterator": "cpp",
+        "vector": "cpp",
+        "tuple": "cpp",
+        "iostream": "cpp"
     }
 }
